@@ -1,6 +1,6 @@
 # Toxic Sites in Kentucky
 
-This project contains a Jupyter Notebook that will load [TRI](https://www.epa.gov/toxics-release-inventory-tri-program) data and find facilities that within a certain distance to populated places specific to the United States, this can be modified for your individual needs within the notebook.
+This project contains a Jupyter Notebook that will load [TRI](https://www.epa.gov/toxics-release-inventory-tri-program) data and find facilities that within a certain distance to populated places specific to the United States and export a json file of those facilites. This can be modified for your individual needs within the notebook.
 
 This project also contains a web map that showcases these facilities for the state of Kentucky and provides some additional info about the TRI Program and more info about the map. I encourage you to take a look at the Toxic Sites in KY map!
 
